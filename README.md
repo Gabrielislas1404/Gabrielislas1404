@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Gabriel
 
-<!--
-**Gabrielislas1404/Gabrielislas1404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎵 Ingeniero de Audio y Diseñador Sonoro 🎧  
+- 🎓 Recientemente estudié **Desarrollo Web** en Tripleten y estoy emocionado por aplicar mis habilidades en proyectos innovadores.  
+- 💻 Habilidades: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**.  
+- 🌟 Proyectos destacados:  
+  - [Pokédex App]((https://github.com/Gabrielislas1404/pokedex_project))
+  - [Social Media]((https://github.com/Gabrielislas1404/web_project_api_full))  
+  - [Mi Portafolio](https://github.com/Gabrielislas1404?tab=repositories)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Cómo contactarme:
+- LinkedIn: [linkedin.com/in/gabriel-islas-garcia](https://linkedin.com/in/gabriel-islas-garcia)  
+- Email: gabrielislas10@hotmail.com  
+
+¡Gracias por visitar mi perfil! 🚀
