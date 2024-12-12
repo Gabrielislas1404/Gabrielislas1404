@@ -4,8 +4,9 @@
 - 🎓 Recientemente estudié **Desarrollo Web** en Tripleten y estoy emocionado por aplicar mis habilidades en proyectos innovadores.  
 - 💻 Habilidades: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**.  
 - 🌟 Proyectos destacados:  
-  - [Pokédex App]((https://github.com/Gabrielislas1404/pokedex_project))
-  - [Social Media]((https://github.com/Gabrielislas1404/web_project_api_full))  
+  - [Pokédex App](https://github.com/Gabrielislas1404/pokedex_project)
+  - [Social Media](https://github.com/Gabrielislas1404/web_project_api_full)
+    
   - [Mi Portafolio](https://github.com/Gabrielislas1404?tab=repositories)  
 
 ---
