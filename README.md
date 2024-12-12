@@ -1,4 +1,4 @@
-# 👋 Hola, soy Gabriel 🇲🇽
+![Banner](https://res.cloudinary.com/dbuytvid1/image/upload/v1733975014/Gabriel_Islas_Garci%CC%81a_fpeuyb.png)
  
 - 🎓 Recientemente terminé mis estudios en **Desarrollo Web** en **Tripleten** y estoy emocionado por aplicar mis habilidades en proyectos innovadores.  
 - 💻 Habilidades: **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**.  
@@ -20,10 +20,5 @@
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-
-
-### 📫 Cómo contactarme:
-- LinkedIn: [linkedin.com/in/gabriel-islas-garcia](https://linkedin.com/in/gabriel-islas-garcia)  
-- Email: gabrielislas10@hotmail.com  
 
 ¡Gracias por visitar mi perfil! 🚀
